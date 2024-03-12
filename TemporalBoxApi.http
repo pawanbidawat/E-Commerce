@@ -1,0 +1,6 @@
+@TemporalBoxApi_HostAddress = http://localhost:5089
+
+GET {{TemporalBoxApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
